@@ -1,0 +1,1 @@
+pumpfun-top5-forecast-01: momentum + mean-reversion forecast
